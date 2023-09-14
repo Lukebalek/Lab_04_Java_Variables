@@ -43,7 +43,5 @@ public class Main
         int month = 2;
         String name = "luke";
 
-
-
     }
 }
